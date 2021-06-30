@@ -3,7 +3,7 @@
 #In Cucumber, tags are used to associate a test like smoke, regression etc. with a particular scenario.
 #By default, Cucumber executes all the scenarios inside the feature file, but if we need to execute or skip any specific scenario under a specific test, so we can declare scenarios within a tag.
 @WholeLogin
-Feature: Login to saucedemo site
+Feature: Login to saucedemo sitee
 
   Background: 
     Given user launches saucedemo site in chrome bowser
